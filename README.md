@@ -1,3 +1,3 @@
-#DONLOT TRUS UNZIP
+<p align="center">DONLOT TRUS UNZIP</p>
 
-#LO KONTOL!
+<h1 align="center">LO KONTOL!</h1>
